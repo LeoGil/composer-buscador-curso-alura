@@ -38,5 +38,7 @@
     },
     "scripts-descriptions": {
         "check": "Run all checks (PHAN, PHPCS, PHPUnit)."
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": ["buscar-cursos.php"]
 }
